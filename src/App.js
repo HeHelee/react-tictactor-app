@@ -44,7 +44,7 @@ if (winner) {
 const handleClick = (i) => {
   const newHistory = history.slice(0,stepNumber + 1); //시간 되돌리기
   const newCurrent = newHistory[newHistory.length-1]; //현재의 아이템만
-  const newSquares = current.squares.slice(); //원본의 복사본 생성
+  const newSquares = newCurrent.squares.slice(); //원본의 복사본 생성
   if (caculateWinner(newSquares) || newSquares[i]) {
     return;
   }
