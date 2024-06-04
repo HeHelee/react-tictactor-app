@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tictactor-app/static/css/main.70ef3f17.css",
+    "main.js": "/react-tictactor-app/static/js/main.d7403ba6.js",
+    "static/js/453.17882521.chunk.js": "/react-tictactor-app/static/js/453.17882521.chunk.js",
+    "index.html": "/react-tictactor-app/index.html",
+    "main.70ef3f17.css.map": "/react-tictactor-app/static/css/main.70ef3f17.css.map",
+    "main.d7403ba6.js.map": "/react-tictactor-app/static/js/main.d7403ba6.js.map",
+    "453.17882521.chunk.js.map": "/react-tictactor-app/static/js/453.17882521.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70ef3f17.css",
+    "static/js/main.d7403ba6.js"
+  ]
+}
